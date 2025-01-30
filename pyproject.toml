@@ -19,6 +19,9 @@ ipython = "^8.31.0"
 coverage = "^7.6.10"
 drf-yasg = "^1.21.8"
 stripe = "^11.5.0"
+celery = "^5.4.0"
+eventlet = "^0.39.0"
+django-celery-beat = "^2.7.0"
 
 
 [tool.poetry.group.lint.dependencies]
